@@ -7,7 +7,7 @@ pathological images by first training a network on image reconstruction of healt
 
 Given the nature of the project the data cannot be disclosed. The code avaialble in this repository
 assumes that the reader is authorized to access it by remotely connecting to the cluster of Università degli Studi di Milano, where data is stored. 
-For the same reason the output of pieces of code which display the original ultrasound images has been omitted, but it can be reproducing by running 
+For the same reason the output of pieces of code which display the original ultrasound images has been omitted, but it can be reproduced by running 
 the relative cells.
 
 
